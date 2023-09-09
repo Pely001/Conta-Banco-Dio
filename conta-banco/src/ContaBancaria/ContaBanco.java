@@ -1,5 +1,7 @@
 package ContaBancaria;
 
+//Definição dos métodos
+
 public class ContaBanco{
     private int numeroConta;
     private String agencia;
